@@ -76,14 +76,20 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/tanusattri/DSA/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/tanusattri/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/tanusattri/DSA/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/tanusattri/DSA/tree/master/0198-house-robber) |
 ## Math
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/tanusattri/DSA/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/tanusattri/DSA/tree/master/0070-climbing-stairs) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/tanusattri/DSA/tree/master/0062-unique-paths) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/tanusattri/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
