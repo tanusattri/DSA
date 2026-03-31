@@ -17,6 +17,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tanusattri/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/tanusattri/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/tanusattri/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/tanusattri/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/tanusattri/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/tanusattri/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Hash Table
@@ -54,6 +55,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/tanusattri/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/tanusattri/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/tanusattri/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/tanusattri/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/tanusattri/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/tanusattri/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Sorting
@@ -86,6 +88,7 @@
 | [0724-find-pivot-index](https://github.com/tanusattri/DSA/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/tanusattri/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/tanusattri/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/tanusattri/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Dynamic Programming
 |  |
 | ------- |
