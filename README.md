@@ -23,6 +23,7 @@
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/tanusattri/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/tanusattri/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/tanusattri/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3606-coupon-code-validator](https://github.com/tanusattri/DSA/tree/master/3606-coupon-code-validator) |
 | [3643-flip-square-submatrix-vertically](https://github.com/tanusattri/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Hash Table
 |  |
@@ -35,6 +36,7 @@
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/tanusattri/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tanusattri/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/tanusattri/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3606-coupon-code-validator](https://github.com/tanusattri/DSA/tree/master/3606-coupon-code-validator) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,6 +57,7 @@
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/tanusattri/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/tanusattri/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/tanusattri/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3606-coupon-code-validator](https://github.com/tanusattri/DSA/tree/master/3606-coupon-code-validator) |
 ## Matrix
 |  |
 | ------- |
@@ -74,6 +77,7 @@
 | [0242-valid-anagram](https://github.com/tanusattri/DSA/tree/master/0242-valid-anagram) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/tanusattri/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/tanusattri/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3606-coupon-code-validator](https://github.com/tanusattri/DSA/tree/master/3606-coupon-code-validator) |
 ## Sliding Window
 |  |
 | ------- |
