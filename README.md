@@ -10,6 +10,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tanusattri/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/tanusattri/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/tanusattri/DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/tanusattri/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/tanusattri/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/tanusattri/DSA/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/tanusattri/DSA/tree/master/0283-move-zeroes) |
@@ -53,6 +54,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tanusattri/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/tanusattri/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/tanusattri/DSA/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/tanusattri/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/tanusattri/DSA/tree/master/0283-move-zeroes) |
 | [3643-flip-square-submatrix-vertically](https://github.com/tanusattri/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## String
@@ -142,6 +144,7 @@
 | [0050-powx-n](https://github.com/tanusattri/DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/tanusattri/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/tanusattri/DSA/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/tanusattri/DSA/tree/master/0189-rotate-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/tanusattri/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Combinatorics
 |  |
