@@ -45,6 +45,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/tanusattri/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanusattri/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/tanusattri/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tanusattri/DSA/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/tanusattri/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/tanusattri/DSA/tree/master/0242-valid-anagram) |
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanusattri/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/tanusattri/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tanusattri/DSA/tree/master/0013-roman-to-integer) |
 | [0072-edit-distance](https://github.com/tanusattri/DSA/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/tanusattri/DSA/tree/master/0125-valid-palindrome) |
@@ -158,6 +160,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/tanusattri/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tanusattri/DSA/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/tanusattri/DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/tanusattri/DSA/tree/master/0062-unique-paths) |
