@@ -74,6 +74,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanusattri/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/tanusattri/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tanusattri/DSA/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/tanusattri/DSA/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/tanusattri/DSA/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/tanusattri/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/tanusattri/DSA/tree/master/0242-valid-anagram) |
