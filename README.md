@@ -21,6 +21,7 @@
 | [0238-product-of-array-except-self](https://github.com/tanusattri/DSA/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/tanusattri/DSA/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/tanusattri/DSA/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/tanusattri/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0560-subarray-sum-equals-k](https://github.com/tanusattri/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/tanusattri/DSA/tree/master/0724-find-pivot-index) |
 | [0944-delete-columns-to-make-sorted](https://github.com/tanusattri/DSA/tree/master/0944-delete-columns-to-make-sorted) |
@@ -156,6 +157,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanusattri/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/tanusattri/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/tanusattri/DSA/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/tanusattri/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/tanusattri/DSA/tree/master/0338-counting-bits) |
 | [0799-champagne-tower](https://github.com/tanusattri/DSA/tree/master/0799-champagne-tower) |
 | [1143-longest-common-subsequence](https://github.com/tanusattri/DSA/tree/master/1143-longest-common-subsequence) |
@@ -226,4 +228,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanusattri/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/tanusattri/DSA/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
