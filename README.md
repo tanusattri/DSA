@@ -72,6 +72,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/tanusattri/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/tanusattri/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/tanusattri/DSA/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/tanusattri/DSA/tree/master/0392-is-subsequence) |
 | [3643-flip-square-submatrix-vertically](https://github.com/tanusattri/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## String
 |  |
@@ -87,6 +88,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/tanusattri/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/tanusattri/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanusattri/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/tanusattri/DSA/tree/master/0392-is-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/tanusattri/DSA/tree/master/0657-robot-return-to-origin) |
 | [0944-delete-columns-to-make-sorted](https://github.com/tanusattri/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1021-remove-outermost-parentheses](https://github.com/tanusattri/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -163,6 +165,7 @@
 | [0213-house-robber-ii](https://github.com/tanusattri/DSA/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/tanusattri/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/tanusattri/DSA/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/tanusattri/DSA/tree/master/0392-is-subsequence) |
 | [0799-champagne-tower](https://github.com/tanusattri/DSA/tree/master/0799-champagne-tower) |
 | [1143-longest-common-subsequence](https://github.com/tanusattri/DSA/tree/master/1143-longest-common-subsequence) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/tanusattri/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
