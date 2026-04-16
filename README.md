@@ -22,6 +22,7 @@
 | [0198-house-robber](https://github.com/tanusattri/DSA/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/tanusattri/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/tanusattri/DSA/tree/master/0213-house-robber-ii) |
+| [0219-contains-duplicate-ii](https://github.com/tanusattri/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/tanusattri/DSA/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/tanusattri/DSA/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/tanusattri/DSA/tree/master/0283-move-zeroes) |
@@ -55,6 +56,7 @@
 | [0012-integer-to-roman](https://github.com/tanusattri/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tanusattri/DSA/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/tanusattri/DSA/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/tanusattri/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/tanusattri/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/tanusattri/DSA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/tanusattri/DSA/tree/master/0383-ransom-note) |
@@ -140,6 +142,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanusattri/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/tanusattri/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/tanusattri/DSA/tree/master/0219-contains-duplicate-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tanusattri/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Queue
 |  |
