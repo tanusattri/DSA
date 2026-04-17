@@ -27,6 +27,7 @@
 | [0274-h-index](https://github.com/tanusattri/DSA/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/tanusattri/DSA/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/tanusattri/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0474-ones-and-zeroes](https://github.com/tanusattri/DSA/tree/master/0474-ones-and-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/tanusattri/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/tanusattri/DSA/tree/master/0724-find-pivot-index) |
 | [0944-delete-columns-to-make-sorted](https://github.com/tanusattri/DSA/tree/master/0944-delete-columns-to-make-sorted) |
@@ -103,6 +104,7 @@
 | [0383-ransom-note](https://github.com/tanusattri/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanusattri/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/tanusattri/DSA/tree/master/0392-is-subsequence) |
+| [0474-ones-and-zeroes](https://github.com/tanusattri/DSA/tree/master/0474-ones-and-zeroes) |
 | [0657-robot-return-to-origin](https://github.com/tanusattri/DSA/tree/master/0657-robot-return-to-origin) |
 | [0944-delete-columns-to-make-sorted](https://github.com/tanusattri/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1021-remove-outermost-parentheses](https://github.com/tanusattri/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -186,6 +188,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/tanusattri/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/tanusattri/DSA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/tanusattri/DSA/tree/master/0392-is-subsequence) |
+| [0474-ones-and-zeroes](https://github.com/tanusattri/DSA/tree/master/0474-ones-and-zeroes) |
 | [0799-champagne-tower](https://github.com/tanusattri/DSA/tree/master/0799-champagne-tower) |
 | [1143-longest-common-subsequence](https://github.com/tanusattri/DSA/tree/master/1143-longest-common-subsequence) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/tanusattri/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
