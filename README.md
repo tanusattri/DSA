@@ -57,6 +57,7 @@
 | [0012-integer-to-roman](https://github.com/tanusattri/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tanusattri/DSA/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/tanusattri/DSA/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/tanusattri/DSA/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/tanusattri/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/tanusattri/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/tanusattri/DSA/tree/master/0290-word-pattern) |
@@ -82,6 +83,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/tanusattri/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanusattri/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/tanusattri/DSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/tanusattri/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/tanusattri/DSA/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/tanusattri/DSA/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanusattri/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -202,6 +204,7 @@
 | [0062-unique-paths](https://github.com/tanusattri/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/tanusattri/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/tanusattri/DSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/tanusattri/DSA/tree/master/0202-happy-number) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/tanusattri/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Combinatorics
 |  |
