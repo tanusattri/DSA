@@ -38,6 +38,7 @@
 | [0904-fruit-into-baskets](https://github.com/tanusattri/DSA/tree/master/0904-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/tanusattri/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanusattri/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/tanusattri/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/tanusattri/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1480-running-sum-of-1d-array](https://github.com/tanusattri/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/tanusattri/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -162,6 +163,7 @@
 | [0219-contains-duplicate-ii](https://github.com/tanusattri/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/tanusattri/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/tanusattri/DSA/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/tanusattri/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tanusattri/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Queue
 |  |
@@ -184,6 +186,7 @@
 | [0238-product-of-array-except-self](https://github.com/tanusattri/DSA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/tanusattri/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/tanusattri/DSA/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/tanusattri/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/tanusattri/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [2906-construct-product-matrix](https://github.com/tanusattri/DSA/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/tanusattri/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -292,6 +295,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanusattri/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/tanusattri/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/tanusattri/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [1004-max-consecutive-ones-iii](https://github.com/tanusattri/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/tanusattri/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Trie
 |  |
