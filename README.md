@@ -12,6 +12,7 @@
 | [0045-jump-game-ii](https://github.com/tanusattri/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/tanusattri/DSA/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tanusattri/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/tanusattri/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/tanusattri/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanusattri/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanusattri/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -178,6 +179,7 @@
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/tanusattri/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [1021-remove-outermost-parentheses](https://github.com/tanusattri/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Prefix Sum
 |  |
@@ -305,4 +307,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/tanusattri/DSA/tree/master/0322-coin-change) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/tanusattri/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
