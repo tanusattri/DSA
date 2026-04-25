@@ -239,6 +239,7 @@
 | [0189-rotate-array](https://github.com/tanusattri/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/tanusattri/DSA/tree/master/0202-happy-number) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/tanusattri/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3783-mirror-distance-of-an-integer](https://github.com/tanusattri/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 ## Combinatorics
 |  |
 | ------- |
