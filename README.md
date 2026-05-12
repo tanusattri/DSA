@@ -231,6 +231,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/tanusattri/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/tanusattri/DSA/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/tanusattri/DSA/tree/master/0518-coin-change-ii) |
+| [0788-rotated-digits](https://github.com/tanusattri/DSA/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/tanusattri/DSA/tree/master/0799-champagne-tower) |
 | [1143-longest-common-subsequence](https://github.com/tanusattri/DSA/tree/master/1143-longest-common-subsequence) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/tanusattri/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -248,6 +249,7 @@
 | [0070-climbing-stairs](https://github.com/tanusattri/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/tanusattri/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/tanusattri/DSA/tree/master/0202-happy-number) |
+| [0788-rotated-digits](https://github.com/tanusattri/DSA/tree/master/0788-rotated-digits) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/tanusattri/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3783-mirror-distance-of-an-integer](https://github.com/tanusattri/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 ## Combinatorics
