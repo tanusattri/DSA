@@ -53,6 +53,7 @@
 | [2154-keep-multiplying-found-values-by-two](https://github.com/tanusattri/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tanusattri/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-separate-the-digits-in-an-array](https://github.com/tanusattri/DSA/tree/master/2553-separate-the-digits-in-an-array) |
+| [2615-sum-of-distances](https://github.com/tanusattri/DSA/tree/master/2615-sum-of-distances) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/tanusattri/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2906-construct-product-matrix](https://github.com/tanusattri/DSA/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/tanusattri/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -88,6 +89,7 @@
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/tanusattri/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/tanusattri/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tanusattri/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2615-sum-of-distances](https://github.com/tanusattri/DSA/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/tanusattri/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3606-coupon-code-validator](https://github.com/tanusattri/DSA/tree/master/3606-coupon-code-validator) |
 | [3719-longest-balanced-subarray-i](https://github.com/tanusattri/DSA/tree/master/3719-longest-balanced-subarray-i) |
@@ -206,6 +208,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/tanusattri/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/tanusattri/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/tanusattri/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [2615-sum-of-distances](https://github.com/tanusattri/DSA/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/tanusattri/DSA/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/tanusattri/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/tanusattri/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
