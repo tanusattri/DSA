@@ -44,6 +44,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/tanusattri/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/tanusattri/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/tanusattri/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1345-jump-game-iv](https://github.com/tanusattri/DSA/tree/master/1345-jump-game-iv) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tanusattri/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/tanusattri/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/tanusattri/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -89,6 +90,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/tanusattri/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/tanusattri/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/tanusattri/DSA/tree/master/0904-fruit-into-baskets) |
+| [1345-jump-game-iv](https://github.com/tanusattri/DSA/tree/master/1345-jump-game-iv) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/tanusattri/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/tanusattri/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/tanusattri/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -349,6 +351,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/tanusattri/DSA/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/tanusattri/DSA/tree/master/0322-coin-change) |
+| [1345-jump-game-iv](https://github.com/tanusattri/DSA/tree/master/1345-jump-game-iv) |
 ## Monotonic Stack
 |  |
 | ------- |
