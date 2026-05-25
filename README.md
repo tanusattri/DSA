@@ -155,6 +155,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/tanusattri/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/tanusattri/DSA/tree/master/1143-longest-common-subsequence) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/tanusattri/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1871-jump-game-vii](https://github.com/tanusattri/DSA/tree/master/1871-jump-game-vii) |
 | [2833-furthest-point-from-origin](https://github.com/tanusattri/DSA/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/tanusattri/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/tanusattri/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -201,6 +202,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/tanusattri/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/tanusattri/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/tanusattri/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1871-jump-game-vii](https://github.com/tanusattri/DSA/tree/master/1871-jump-game-vii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tanusattri/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Queue
 |  |
@@ -228,6 +230,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/tanusattri/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/tanusattri/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/tanusattri/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1871-jump-game-vii](https://github.com/tanusattri/DSA/tree/master/1871-jump-game-vii) |
 | [2615-sum-of-distances](https://github.com/tanusattri/DSA/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/tanusattri/DSA/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/tanusattri/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -265,6 +268,7 @@
 | [1340-jump-game-v](https://github.com/tanusattri/DSA/tree/master/1340-jump-game-v) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/tanusattri/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/tanusattri/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1871-jump-game-vii](https://github.com/tanusattri/DSA/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/tanusattri/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/tanusattri/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3660-jump-game-ix](https://github.com/tanusattri/DSA/tree/master/3660-jump-game-ix) |
