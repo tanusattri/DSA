@@ -58,6 +58,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/tanusattri/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/tanusattri/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tanusattri/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/tanusattri/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/tanusattri/DSA/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/tanusattri/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/tanusattri/DSA/tree/master/2615-sum-of-distances) |
@@ -159,6 +160,7 @@
 | [1143-longest-common-subsequence](https://github.com/tanusattri/DSA/tree/master/1143-longest-common-subsequence) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/tanusattri/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1871-jump-game-vii](https://github.com/tanusattri/DSA/tree/master/1871-jump-game-vii) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/tanusattri/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/tanusattri/DSA/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/tanusattri/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/tanusattri/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
