@@ -39,7 +39,7 @@ Hence, the minimum cost to buy all candies is 9 + 7 + 5 + 2 = 23.
 <strong>Input:</strong> cost = [5,5]
 <strong>Output:</strong> 10
 <strong>Explanation:</strong> Since there are only 2 candies, we buy both of them. There is not a third candy we can take for free.
-Hence, the minimum cost to buy all candies is 5 + 5 = 10.
+Hence, the minimum cost to buy all candies is 5+5=10. 
 </pre>
 
 <p>&nbsp;</p>
