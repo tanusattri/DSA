@@ -59,6 +59,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/tanusattri/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/tanusattri/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/tanusattri/LeetCode-DSA/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/tanusattri/LeetCode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/tanusattri/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tanusattri/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/tanusattri/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -199,6 +200,7 @@
 | [1340-jump-game-v](https://github.com/tanusattri/DSA/tree/master/1340-jump-game-v) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/tanusattri/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2126-destroying-asteroids](https://github.com/tanusattri/LeetCode-DSA/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/tanusattri/LeetCode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/tanusattri/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2784-check-if-array-is-good](https://github.com/tanusattri/DSA/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/tanusattri/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -346,6 +348,7 @@
 | [0134-gas-station](https://github.com/tanusattri/DSA/tree/master/0134-gas-station) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/tanusattri/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/tanusattri/LeetCode-DSA/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/tanusattri/LeetCode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3074-apple-redistribution-into-boxes](https://github.com/tanusattri/DSA/tree/master/3074-apple-redistribution-into-boxes) |
 ## Divide and Conquer
 |  |
